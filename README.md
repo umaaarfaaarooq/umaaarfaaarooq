@@ -2,7 +2,7 @@
 👀 I’m interested in cloud-native security solutions, zero-trust architecture, advanced threat detection, and streamlining compliance frameworks like SOC 2 and ISO 27001.
 🌱 I’m currently mastering Microsoft 365 and Azure Cloud administration, Wazuh for endpoint and SIEM solutions, and proactive incident response automation.
 💞️ I’m looking to collaborate on cloud migration strategies, implementing Wazuh and SIEM platforms, and enhancing organizational cybersecurity resilience.
-📫 How to reach me: LinkedIn.com/in/muf, umaaar.faaarooq@gmail.com
+📫 How to reach me: LinkedIn.com/in/muf, umar@syntecsolutions.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: I thrive on detecting and neutralizing cyber threats faster than most people can debug code, and I love educating teams on security hygiene!
 
